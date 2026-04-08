@@ -2,6 +2,6 @@
 
 **Título do Capítulo**: Formação Ética em Computação por Meio da Extensão Universitária: Uma Perspectiva Empírica
 
-**Submetido a**: ???
+**Submetido a**: TODO
 
 
